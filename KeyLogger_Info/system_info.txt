@@ -1,0 +1,5 @@
+Public IP Address: xx.xxx.xxx.82Processor: AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: XXXXXX-Q7XXJH3XX
+Private IP Address: xxx.xxx.xxx.246

@@ -1,0 +1,6 @@
+Pillow==9.0.1
+pynput==1.7.4
+scipy==1.7.3
+sounddevice==0.4.1
+cryptography==3.4.8
+requests==2.26.0
